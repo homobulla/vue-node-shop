@@ -1,0 +1,18 @@
+[
+  {
+    "name": "localhost",
+    "uri": {
+      "hosts": [
+        {
+          "host": "localhost",
+          "port": 27017
+        }
+      ],
+      "options": {},
+      "scheme": "mongodb"
+    },
+    "colorFlag": 0,
+    "authMode": 0,
+    "connectionType": "direct"
+  }
+]
